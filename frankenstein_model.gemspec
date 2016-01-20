@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = FrankensteinModel::VERSION
   spec.authors       = ["Oleg German"]
   spec.email         = ["oleg.german@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = "Tie multiple models to one"
+  spec.description   = "Tie multiple models to one"
+  spec.homepage      = "https://github.com/ogerman/frankenstein_model"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
